@@ -16,6 +16,7 @@ I work on production AI for large, regulated organizations: multi-agent orchestr
 ## Selected Work
 
 - [Agent Autonomy Score](https://github.com/Aidan2111/agent-autonomy-score): risk scoring for deciding how much supervision AI coding agents need.
+- [LLM Bidding System](https://github.com/Aidan2111/llm-bidding-system): auction-style LLM routing that balances response quality, cost, latency, and governance constraints.
 - [Sentiment-Driven Quantitative Carry Trade Model](https://github.com/Aidan2111/carry-trade-model): ML and news-sentiment driven carry trade forecasting with a React/TypeScript dashboard.
 - [aidanmarshall.ai](https://aidanmarshall.ai/): canonical personal site, writing, structured data, and public identity hub.
 
