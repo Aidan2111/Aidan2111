@@ -6,7 +6,7 @@ Dallas-based AI engineer building agentic AI systems and enterprise automation.
 
 I work on production AI for large, regulated organizations: multi-agent orchestration, AI-assisted development, governance, and the systems around LLMs that make them useful in real software.
 
-Open to AI-startup opportunities.
+Director of AI Technology at a Stealth AI Startup.
 
 ## Current Focus
 
@@ -19,6 +19,7 @@ Open to AI-startup opportunities.
 
 - Claude Certified Architect – Professional
 - Claude Certified Architect – Foundations
+- Claude Certified Developer – Foundations
 
 ## Selected Work
 
