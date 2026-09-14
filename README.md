@@ -6,12 +6,19 @@ Dallas-based AI engineer building agentic AI systems and enterprise automation.
 
 I work on production AI for large, regulated organizations: multi-agent orchestration, AI-assisted development, governance, and the systems around LLMs that make them useful in real software.
 
+Open to AI-startup opportunities.
+
 ## Current Focus
 
 - Agentic AI architecture and multi-agent orchestration
 - AI-assisted development workflows with Claude, Cursor, Copilot, and custom agents
 - Azure OpenAI, Microsoft Foundry, Model Context Protocol, and enterprise AI delivery
 - Governance patterns for autonomous systems in legal, tax, and compliance environments
+
+## Recent Credentials
+
+- Claude Certified Architect – Professional
+- Claude Certified Architect – Foundations
 
 ## Selected Work
 
